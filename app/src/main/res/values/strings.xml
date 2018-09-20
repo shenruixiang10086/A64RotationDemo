@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A64RotationDemo</string>
+    <string name="btn_r0">旋转0度</string>
+    <string name="btn_r1">旋转90度</string>
+    <string name="btn_r2">旋转180度</string>
+    <string name="btn_r3">旋转270度</string>
+</resources>
